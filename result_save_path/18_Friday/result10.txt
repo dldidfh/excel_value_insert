@@ -1,0 +1,39 @@
+150 min
+0->1
+car : 118
+bus-m : 1
+truck-s : 6
+truck-m : 5
+0->2
+0->3
+1->0
+car : 33
+bus-s : 1
+bus-m : 3
+truck-m : 1
+1->2
+car : 116
+bus-m : 1
+truck-s : 8
+truck-m : 5
+1->3
+2->0
+2->1
+car : 32
+bus-s : 1
+bus-m : 3
+truck-s : 2
+truck-m : 1
+2->3
+car : 113
+bus-m : 1
+truck-s : 8
+truck-m : 3
+3->0
+3->1
+3->2
+car : 25
+bus-s : 1
+bus-m : 3
+truck-s : 4
+truck-m : 1

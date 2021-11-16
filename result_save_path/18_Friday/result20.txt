@@ -1,0 +1,26 @@
+300 min
+0->1
+car : 241
+truck-s : 9
+0->2
+0->3
+1->0
+car : 6
+truck-x : 1
+1->2
+car : 236
+truck-s : 13
+truck-m : 1
+1->3
+2->0
+2->1
+truck-x : 1
+2->3
+car : 235
+truck-s : 13
+truck-m : 1
+3->0
+3->1
+3->2
+car : 4
+truck-x : 1

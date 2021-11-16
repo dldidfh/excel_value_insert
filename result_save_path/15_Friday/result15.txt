@@ -1,0 +1,70 @@
+225 min
+0->1
+car : 5
+0->2
+car : 26
+truck-s : 4
+0->3
+car : 21
+truck-s : 1
+0->4
+0->5
+1->0
+car : 5
+1->2
+car : 83
+bus-s : 1
+bus-m : 3
+truck-s : 8
+truck-m : 2
+1->3
+car : 15
+1->4
+1->5
+truck-s : 1
+2->0
+car : 13
+truck-s : 1
+2->1
+car : 12
+2->3
+2->4
+truck-s : 2
+2->5
+car : 5
+bus-m : 2
+truck-s : 1
+3->0
+car : 2
+3->1
+3->2
+car : 13
+truck-s : 1
+3->4
+car : 19
+bus-s : 1
+truck-s : 4
+3->5
+4->0
+4->1
+4->2
+4->3
+truck-s : 1
+4->5
+car : 31
+bus-s : 1
+bus-m : 1
+truck-s : 7
+5->0
+truck-s : 1
+5->1
+car : 33
+bus-s : 1
+bus-m : 6
+truck-s : 6
+truck-m : 1
+5->2
+5->3
+truck-s : 1
+5->4
+truck-s : 1
